@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/myapp/public/javascripts/Parser.js" />
+        <item url="file://$PROJECT_DIR$/dist/myapp/routes/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/myapp/public/javascripts/Edge.js" />
+        <item url="file://$PROJECT_DIR$/dist/myapp/public/javascripts/kcore.js" />
+        <item url="file://$PROJECT_DIR$/dist/myapp/public/javascripts/Vertex.js" />
+        <item url="file://$PROJECT_DIR$/dist/myapp/public/javascripts/Cluster.js" />
+        <item url="file://$PROJECT_DIR$/dist/myapp/public/javascripts/Graph.js" />
+        <item url="file://$PROJECT_DIR$/dist/myapp/app.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/myapp/public/javascripts/Parser.js" />
+      <root url="file://$PROJECT_DIR$/dist/myapp/routes/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/myapp/public/javascripts/Edge.js" />
+      <root url="file://$PROJECT_DIR$/dist/myapp/public/javascripts/kcore.js" />
+      <root url="file://$PROJECT_DIR$/dist/myapp/public/javascripts/Vertex.js" />
+      <root url="file://$PROJECT_DIR$/dist/myapp/public/javascripts/Cluster.js" />
+      <root url="file://$PROJECT_DIR$/dist/myapp/public/javascripts/Graph.js" />
+      <root url="file://$PROJECT_DIR$/dist/myapp/app.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
